@@ -1,1 +1,2 @@
 # RepoZdalnePWN
+Dodatkowe informacje
